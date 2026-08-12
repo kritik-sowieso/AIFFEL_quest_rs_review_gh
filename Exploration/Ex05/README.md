@@ -5,11 +5,6 @@
 - 리뷰어 : 강지수
 
 
-# AIFFEL Campus Online Code Peer Review Template
-- 코더 : 기훈
-- 리뷰어 : 강지수
-
-
 # PRT(Peer Review Template)
 
 - [ ] **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
